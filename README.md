@@ -1,4 +1,4 @@
-# Srikrishna Hireholi Codes
+# Sanmita D Codes
 📂 File Descriptions
 Add_Functions.cpp – Basic function usage and addition logic
 Assignmen_1.cpp – Simple assignment-based problem
